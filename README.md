@@ -1,0 +1,2 @@
+# Galileosky
+Galileosky device decoding
